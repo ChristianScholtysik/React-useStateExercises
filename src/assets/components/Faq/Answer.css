@@ -1,0 +1,19 @@
+.output-answer {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 40px;
+  padding: 10px 10px;
+  font-size: 1.6rem;
+  background-color: rgb(38, 201, 184);
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.output-answer button {
+  font-size: 2rem;
+  background-color: rgb(38, 168, 201);
+  color: white;
+  border: none;
+  border-radius: 5px;
+}

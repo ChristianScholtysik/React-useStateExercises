@@ -1,0 +1,35 @@
+.counter-wrapper {
+  background-color: rgb(188, 138, 235);
+  padding: 20px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.counter {
+  display: flex;
+}
+
+.counter button {
+  color: white;
+}
+
+.counter p {
+  font-size: 1.4rem;
+  color: white;
+  display: flex;
+  justify-content: center;
+  width: 3rem;
+}
+
+.counter-wrapper button {
+  color: white;
+  background-color: rgb(129, 61, 192);
+  margin: 10px 10px;
+  width: 4rem;
+  padding: 15px 15px;
+
+  border: none;
+  border-radius: 10px;
+}
