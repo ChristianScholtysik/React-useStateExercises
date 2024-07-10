@@ -25,3 +25,11 @@ button {
   color: white;
   background-color: black;
 }
+
+.night button {
+  border-radius: 20px;
+  color: white;
+  background-color: rgb(0, 0, 0);
+  padding: 15px 15px;
+  border: solid white 1px;
+}
