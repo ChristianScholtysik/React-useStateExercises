@@ -1,7 +1,7 @@
 import Counter from "../../assets/components/Counter/Counter";
 import DayNight from "../../assets/components/Day_Night/DayNight";
 import Faq from "../../assets/components/Faq/Faq";
-import Form from "../../assets/components/Form";
+import Form from "../../assets/components/Form/Form";
 import "./Home.css";
 
 const Home = () => {
